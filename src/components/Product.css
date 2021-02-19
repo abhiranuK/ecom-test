@@ -1,0 +1,46 @@
+img {
+  height: 200px;
+  object-fit: fit;
+}
+
+.headercolor {
+  background: #5bb6e5;
+}
+.cardStyle {
+  max-width: '25%';
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.cardStylebody {
+  background: #f3d3d6;
+}
+
+.zoom12:hover {
+  transform: scale(1.2);
+}
+
+.header-product {
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
+}
+
+.btn-det :hover {
+  background-color: #ff6f61 !important;
+  border-radius: 16px !important;
+  color: #ffffff !important;
+}
+.btn-det {
+  background-color: #fff !important;
+  border-radius: 16px !important;
+  color: #ff6f61 !important;
+  border: 1px solid #ff6f61 !important;
+}
+.btn-Add {
+  background-color: #ff6f61 !important;
+  border-color: #ff6f61;
+  border-radius: 16px !important;
+  border: 0px solid transparent !important;
+}

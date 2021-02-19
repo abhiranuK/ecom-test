@@ -1,0 +1,25 @@
+.img-Details {
+  max-width: 200px;
+  max-height: 400px;
+}
+
+.info-details {
+  background: bisque;
+}
+
+.btn-add {
+  background-color: #fff !important;
+  border-radius: 16px !important;
+  color: #ff6f61 !important;
+  border: 1px solid #ff6f61 !important;
+  margin-bottom: 8px !important;
+}
+
+.btn-back {
+  background-color: #ff6f61 !important;
+  border-color: #ff6f61;
+  border-radius: 16px !important;
+  border: 0px solid transparent !important;
+  margin-bottom: 8px !important;
+  margin-right: 10px !important;
+}

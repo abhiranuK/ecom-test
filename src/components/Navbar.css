@@ -1,0 +1,37 @@
+.navbar-Color {
+  background: #5bb6e5;
+  color: black;
+}
+
+.img-Logo {
+  height: 35px !important;
+  width: 35px !important;
+}
+
+div > ul > li {
+  color: grey !important;
+}
+
+.cart-btn {
+  display: inline-block;
+  font-weight: 500;
+  color: #111;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #fff;
+  background-color: #ff6f61 !important;
+  border-color: #ff6f61;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.875rem 1.75rem;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
